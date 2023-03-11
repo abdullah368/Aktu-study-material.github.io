@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#body h1{
+    text-align: center;
+    background-image: url("img/bgimg.jpeg");
+
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    /* margin: 20px; */
+}
+.contenar{
+background-color: rgb(225, 234, 192);
+/* background-image: url(/img/bgimg.jpeg); */
+}
+#body{
+    background-image: url("img/bgimg.jpeg");
+
+}
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    list-style: none;;
+}  
